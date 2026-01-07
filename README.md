@@ -25,6 +25,6 @@ Unsupervised segmentation of media behavior data using Gower Distance and Agglom
 ```text
 .
 ├── main.py              # 분석 메인 스크립트
-├── data/                # 데이터 파일 저장 폴더 (예시: .sav 파일)
+├── data/                # 데이터 파일 저장 폴더 (.sav 파일)
 ├── requirements.txt     # 필요 라이브러리 목록
 └── README.md            # 프로젝트 설명 문서
