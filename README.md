@@ -1,4 +1,4 @@
-# mediabehav_clustering
+# media-behavior-clustering
 Unsupervised segmentation of media behavior data using Gower Distance and Agglomerative Clustering.
 
 # 📊 Media Behavior Clustering Analysis
